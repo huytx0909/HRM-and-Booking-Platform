@@ -6,5 +6,7 @@ Technology stack:
 2. Relational database management system: MySQL
 3. ORM: Gorm
 
-Supports: Authentication / Authorization
+Supports: 
+1. Authentication / Authorization
+2. Sending emails for ordering confirmation
 
